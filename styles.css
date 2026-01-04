@@ -46,7 +46,21 @@ input {
 
 #result_bmi {
     font-weight: bold;
+    margin-top: 10px;
 }
 
+#result_status {
+    margin-top: 10px;
+}   
+
+.result-con {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.result-con p {
+    margin: 5px 0;
+}           
 
 

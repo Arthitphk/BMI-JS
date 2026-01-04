@@ -24,7 +24,6 @@ function calculateBMI() {
     } else if (bmi_result > 30.0) {
         resultStatus.innerText = 'อ้วนมาก' 
     }       
-    
 }
 
 

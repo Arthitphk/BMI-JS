@@ -1,0 +1,52 @@
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+     background-color: wheat;
+}
+.input-con {
+    margin: 15px 0;
+}       
+
+
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+#calculate_btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#calculate_btn:hover {
+    background-color: #218838;
+}
+
+.result-con {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
+#result_bmi {
+    font-weight: bold;
+}
+
+
+
